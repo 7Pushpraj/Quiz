@@ -1,2 +1,2 @@
-# Quiz
-quiz gmme usinng HTML, CSS, JavaScript
+# Quiz app
+quiz app usinng HTML, CSS, JavaScript
